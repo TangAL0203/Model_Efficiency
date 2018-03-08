@@ -6,6 +6,6 @@ Calculate Model Efficiency, Study, Design Efficient Models
 2. Calculate inference time of different types of conv layer such as ResNet Bottleneck, SquezeeNet fire modules, AlexNet traditional modules, MobileNet 1x1 depthwise conv.
 3. Combine different modules into a new model, this new model not only has high efficiency, but also has a competitive Accuracy.
 
-1x1 depthwise conv: Feature fusion.
-channel shuffle: Feature fusion.
-Bottleneck: fast convergence and great generalization.
+* 1x1 depthwise conv: Feature fusion.
+* channel shuffle: Feature fusion.
+* Bottleneck: fast convergence and great generalization.
